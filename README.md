@@ -36,7 +36,6 @@ Agente de IA integrado ao WhatsApp via **Z-API**.
 - 📊 **Google Sheets API** para registro de leads e perguntas
 - 🔄 **n8n** para orquestração de fluxos e automações
 - 🌐 **Webhook & HTTP Requests** para integração entre serviços
-- 🛠️ Python / JavaScript para scripts auxiliares
 
 ---
 
