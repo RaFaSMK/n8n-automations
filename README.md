@@ -64,6 +64,6 @@ Cada subpasta possui seu próprio `README.md` com instruções específicas de i
 ## 📬 Contato
 
 Quer saber mais ou colaborar?  
-Entre em contato por aqui mesmo no GitHub ou [LinkedIn](https://www.linkedin.com/in/rafael-chaves-souza).
+Entre em contato por aqui mesmo no GitHub ou [LinkedIn](https://www.linkedin.com/in/rafael-chaves-souza-a856b524b/).
 
 ---
